@@ -13,3 +13,4 @@ Calculated all changes and percents
 Created columns for all my calculations
 
 Then applied the conditional formatting based on information recieved.
+I used assignments from class & Slack overflow for a broad range of this Stock Market Analysis.
