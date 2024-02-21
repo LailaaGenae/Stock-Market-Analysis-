@@ -1,5 +1,5 @@
 # Stock-Market-Analysis #
-## Objective: ## create a VBA script that loops through every year & outputs the Ticker, Yearly Change, Percent Change, & Total Stock Volume. 
+## Objective: create a VBA script that loops through every year & outputs the Ticker, Yearly Change, Percent Change, & Total Stock Volume. 
 Using the information above to get the Greatest % Increase & Decrease along with the Greatest Total Volume.
 
 * I started by getting the code to loop through the entire Workbook
