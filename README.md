@@ -15,4 +15,4 @@ Using the information above to get the Greatest % Increase & Decrease along with
 * Then applied the conditional formatting based on information recieved.
 
 I used assignments from class & Slack overflow for a broad range of this Stock Market Analysis.
-! [img](./stockanalysis%(2020).png)
+! [img](./stock%analysis%(2020).png)
